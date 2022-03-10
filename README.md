@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cprofiriu
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning version control
